@@ -1,0 +1,5 @@
+Window Watch privacy
+
+Window Watch stores the current spots on this phone. The spots are which of the six were a bird, a cloud, or a car.
+
+The app does not collect personal data. It does not use an account, ads, a camera, or a network connection. Nothing is sent off the phone.

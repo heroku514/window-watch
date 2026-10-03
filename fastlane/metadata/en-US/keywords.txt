@@ -1,0 +1,1 @@
+window,bird,kids,family,seniors,offline,cloud,car

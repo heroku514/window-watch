@@ -1,0 +1,1 @@
+Window Watch is an offline look out the window. Six spots can be a bird, a cloud, or a car. The line names the last one. Take back returns the last spot. New watch starts over after you confirm. The spots remain after you leave the app. There is no account, no camera, and no network use.

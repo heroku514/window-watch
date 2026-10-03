@@ -1,0 +1,5 @@
+Window Watch support
+
+Window Watch keeps six things you see outside. Tap Saw a bird, Saw a cloud, or Saw a car. The huge line names the last one. Take back returns that spot.
+
+The spots stay on this phone. The app does not use an account. For help, write to peaker.map@gmail.com.

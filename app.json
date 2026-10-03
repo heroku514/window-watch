@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "WindowWatch",
+    "slug": "window-watch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "windowwatch",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.peakermap.windowwatch",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "Window Watch",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F4F7FB",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
